@@ -1,5 +1,4 @@
-$KCODE = 'UTF8'
-
+# -*- encoding : utf-8 -*-
 require 'singleton'
 require 'net/http'
 

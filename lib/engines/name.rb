@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module RsegEngine
   class Name < Engine
     @@last_names = %W(丁 卜 刁 七 弓 干 于 王 尤 孔 方 申 白 甘 田 包 石 左 平 司 皮 史 池 艾 年 匡 充 江 印

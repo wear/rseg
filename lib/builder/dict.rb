@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 $KCODE = 'UTF8'
 
 def process(path, tree)

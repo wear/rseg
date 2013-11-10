@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module RsegEngine
   class Dict < Engine
     @@root      = nil

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module RsegEngine
   class Engine
     def initialize

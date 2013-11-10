@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module RsegEngine
   LETTER_SYMBOLS = ('a'..'z').to_a + ('A'..'Z').to_a
 
