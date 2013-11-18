@@ -7,6 +7,8 @@ The algorithm is based on this article: http://xiecc.blog.163.com/blog/static/14
 Usage
 ========
 
+Generate Dict first
+
 Rseg now support two modes: inline and C/S mode.
 
 1. Inline mode

@@ -67,6 +67,7 @@ class Rseg
   end
 
   private
+  
   def filter(char)
     result = char
     @filters.each do |klass|
