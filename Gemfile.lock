@@ -1,5 +1,4 @@
 GEM
-  remote: http://ruby.taobao.org/
   specs:
     diff-lcs (1.2.5)
     haml (4.0.4)
