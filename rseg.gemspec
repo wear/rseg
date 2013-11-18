@@ -11,8 +11,8 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.summary     = %q{A Chinese Word Segmentation(中文分词) routine in pure Ruby}
   s.description = %q{由Yuanyi Zhang建立，现由Stephen维护}
-  s.email = %q{wear21@hotmail.com}
-  s.executables = ["rseg", "rseg_server"]
+  s.email = %q{wear63659220@gmail.com}
+  s.homepage    = "https://github.com/wear/rseg"
   s.extra_rdoc_files = [
     "LICENSE",
      "README"
