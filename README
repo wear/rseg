@@ -9,6 +9,8 @@ Usage
 
 Generate Dict first
 
+> rake rebuild_dicts
+
 Rseg now support two modes: inline and C/S mode.
 
 1. Inline mode
